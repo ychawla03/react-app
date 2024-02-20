@@ -1,0 +1,10 @@
+/**this is how we write custom css class */
+.footer{
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    height: 50px;
+    background-color: black;
+    text-align: center;
+    color: white;
+}
